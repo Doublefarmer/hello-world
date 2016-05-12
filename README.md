@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+Hi, I'm just writing a little for fun. And I like Karin :)
